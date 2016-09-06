@@ -1,4 +1,3 @@
-# KNN
-python code 
-KNN algorithm
-just for practice :)
+# KNN algorithm
+# just for practice :)
+# written by python
